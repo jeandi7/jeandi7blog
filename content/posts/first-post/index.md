@@ -13,6 +13,9 @@ I always have the magazine at home on this complete Turing cellular automaton
 
 ![Image](./images/odn1.png)
 
+See : https://github.com/jeandi7/aiandgo
+
+
 ## Remark :
 
 - The actual mechanisms of evolution are, however, far far richer than most genetic algorithms allow
