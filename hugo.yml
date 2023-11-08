@@ -30,7 +30,7 @@ params:
         url: tags
 
   homeInfoParams:
-    Title: "Qu'est ce que jeandi...  \U0001F44B"
+    Title: "Ce que Jeandi... \U0001F44B"
     Content: Bievenue sur mon blog
 
   socialIcons:
