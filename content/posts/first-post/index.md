@@ -20,7 +20,7 @@ Voir : https://github.com/jeandi7/aiandgo
 
 - Les mécanismes actuels de l'évolution sont,et de loin,bien plus riches que n'importe lequel des algorithmes génétiques.
 
-- Par exemple, pour notre automate cellulaire, les mutations peuvent invoquer des inversions (reversals), des duplications, ou tout autre mouvement de large morceau d'ADN.
+- Par exemple, pour notre automate cellulaire, les mutations peuvent invoquer des inversions (reversals), des duplications, ou tout autre mouvement de larges morceaux d'ADN.
 
 - La biologie est dans la situation de la physique avant la mécanique quantique.Il nous manque une nouvelle théorie de l'évolution. (*)
 
