@@ -16,17 +16,18 @@ I always have the magazine at home on this complete Turing cellular automaton
 See : https://github.com/jeandi7/aiandgo
 
 
-## Remark :
+## Remarques:
 
-- The actual mechanisms of evolution are, however, far far richer than most genetic algorithms allow
+- Les mécanismes actuels de l'évolution sont,et de loin,bien plus riches que n'importe lequel des algorithmes génétiques.
 
-- For the example of our cellular automaton , mutations can involve reversals, duplications, and movement of large chunks of DNA
+- Par exemple, pour notre automate cellulaire, les mutations peuvent invoquer des inversions (reversals), des duplications, ou tout autre mouvement de large morceau d'ADN.
 
-- Biology is in the situation of physics before the quantum revolution. A new theory of evolution is missing.
+- La biologie est dans la situation de la physique avant la mécanique quantique.Il nous manque une nouvelle théorie de l'évolution.
 
-- Let's hope that this new theory will be available in the 21st century : some new theories here :
+- Espérons qu'une nouvelle théorie de l'évolution apparaitra dans ce XXI siècle: Quelques pistes :
 
 - Denton, D'Arcy Thompson: There are Platonic forms or archetypes in nature and mathematical laws influencing the forms of living beings.
 
 - Conway-Morris, de Duve: the evolution of life would in one way or another be channeled towards increasingly complex forms leading to the existence of conscious beings.
-Schützenberger: Evolution follows an optimal control algorithm.
+
+- Schützenberger: L'évolution suit un algorithme de contrôle optimal.
