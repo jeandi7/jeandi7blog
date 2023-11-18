@@ -19,7 +19,8 @@ Et qui pourra toujours me re-servir pour la cryptographie.
 
 ### Definition
 
->On appelle magma un couple (E,·) où E est un ensemble et · est une loi de composition interne qui combine deux >éléments a et b de E pour obtenir un troisième élément a · b.
+>On appelle magma un couple (E,·) où E est un ensemble et · est une loi de composition interne qui combine deux 
+>éléments a et b de E pour obtenir un troisième élément a · b.
 >
 >Il faut que la loi satisfasse l'axiome ci-dessous.
 >
