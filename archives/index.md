@@ -15,7 +15,6 @@ J'ai toujours la collection de ce magazine à la maison
 
 Voir : https://github.com/jeandi7/aiandgo
 
-
 ## Remarques:
 
 - Les mécanismes actuels de l'évolution sont,et de loin,bien plus riches que n'importe lequel des algorithmes génétiques.
