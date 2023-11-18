@@ -7,7 +7,7 @@ date = 2019-10-18T02:05:38+01:00
 
 j'ai un groupe dans ma main et des souvenirs de première et de terminale C.
 
-A l'époque je ne me doutais pas qu'il y avait dans ces définitions quelque chose  en raport avec la programmation ....
+A l'époque je ne me doutais pas du rapport avec la programmation ....
 Ce sont les monoïdes aujourd'hui qui m'intéressent.
 
 Le papier (célèbre) de Cyril Martaire sur le DDD et les monoïdes  :
