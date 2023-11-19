@@ -10,12 +10,15 @@ j'ai un groupe dans ma main et des souvenirs de première et de terminale C.
 A l'époque je ne me doutais pas du rapport avec la programmation ....
 Ce sont les monoïdes aujourd'hui qui m'intéressent.
 
+Le code (simpliste) d'un monoide en golang ici : 
+
 Le papier (célèbre) de Cyril Martaire sur le DDD et les monoïdes  :
 Voir  https://blog.arolla.fr/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf
 
 
 En attendant mon petit mémo qui a l'odeur d'une madeleine de Proust :
 Et qui pourra toujours me re-servir pour la cryptographie.
+
 
 ### Definition
 
