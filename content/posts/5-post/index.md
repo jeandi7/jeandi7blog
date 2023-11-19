@@ -11,6 +11,8 @@ A l'époque je ne me doutais pas du rapport avec la programmation ....
 Ce sont les monoïdes aujourd'hui qui m'intéressent.
 
 Le code (simpliste) d'un monoide en golang ici : 
+Voir https://github.com/jeandi7/godesignpatterns/tree/main/monoid
+
 
 Le papier (célèbre) de Cyril Martaire sur le DDD et les monoïdes  :
 Voir  https://blog.arolla.fr/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf
