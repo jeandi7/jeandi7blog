@@ -1,5 +1,5 @@
 +++
-title = 'Monoïdes et autres structures algébriques'
+title = 'Monoïdes et autres structures algébriques  (Functional Programming)'
 date = 2019-10-18T02:05:38+01:00
 +++
 
