@@ -1,5 +1,5 @@
 +++
-title = 'Functor Design Pattern  (Functional Programming)' 
+title = 'Functional Programming : Functor' 
 date = 2019-11-24T00:50:52+01:00
 +++
 
