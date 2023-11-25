@@ -19,3 +19,4 @@ On peut chainer plusieurs monades entre-elles pour effectuer un calcul
 
 Voir un exemple de code sur https://github.com/jeandi7/gofunctional/tree/main/monad
 
+Le terme monad, comme functor  provient de la théorie mathématique des catégories.
