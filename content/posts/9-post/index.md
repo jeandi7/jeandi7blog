@@ -11,4 +11,5 @@ date = 2022-11-03T00:06:38+01:00
 
 - Driver Actor, Driven Actor, (InBound Port) , (OutBound) Port, Hexagonal Core
 
+
 ![Image](./images/AdaptersAndPorts1.png)
