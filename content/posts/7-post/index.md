@@ -23,3 +23,4 @@ On note qu'une catégorie est composé d'élements
 - soit des flèches
 
 Les fléches sont aussi appelées morphismes dans la théorie des catégories.
+
