@@ -23,7 +23,7 @@ Le terme monad, comme functor  provient de la théorie mathématique des catégo
 
 ### Remarque sur le monade : 
 
-- On a vu précédemment qu'un monoïde est une catégorie localement petite réduite à un unique objet.
+- On a vu précédemment qu'un monoïde était une catégorie "localement petite" c'est à dire réduite à un unique objet.
 - Une monade est elle même un monoïde
 - Une monade peut aussi être vue comme un foncteur particulier d'une catégorie vers elle-même
 
