@@ -21,10 +21,10 @@ Voir un exemple de code sur https://github.com/jeandi7/gofunctional/tree/main/mo
 
 Le terme monad, comme functor  provient de la théorie mathématique des catégories.
 
-### Remarque sur le monade : 
+### Remarque sur la monade : 
 
 - On a vu précédemment qu'un monoïde était une catégorie "localement petite" c'est à dire réduite à un unique objet.
-- Une monade est elle même un monoïde
+- Une monade est elle-même un monoïde
 - Une monade peut aussi être vue comme un foncteur particulier d'une catégorie vers elle-même
 
 En attendant, ce petit schéma sous Archimate pour résumer la situation :
