@@ -9,7 +9,7 @@ date = 2022-11-03T00:06:38+01:00
 
 - Un schéma sous le standard Archimate.
 
-- Driver Actor, Driven Actor, (InBound) Port , (OutBound) Port, Hexagonal Core
+- Driver Actor, Driven Actor, (InBound) Port, (OutBound) Port, Hexagonal Core
 
 
 ![Image](./images/AdaptersAndPorts1.png)

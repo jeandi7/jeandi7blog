@@ -25,6 +25,8 @@ On note qu'une catégorie est composée d'élements
 - qui sont soit des objets 
 - soit des flèches
 
+![image info](./images/category2.png)
+
 Les fléches d'une catégorie sont aussi appelées morphismes dans la théorie des catégories.
 Ces fléches doivent vérifier certaines propriétées comme
 - la composition
@@ -33,19 +35,19 @@ Ces fléches doivent vérifier certaines propriétées comme
 
 Pourquoi parler de catégorie ? 
 
-<p> Je me souviens (il y a bien longtemps) de la démonstration par l'absurde que l'ensemble des ensembles n'existe pas.
-Et bien , c'est une des raisons pour laquelle on parle de catégorie....et pas d'ensemble.
-Mais si nos fléches  forment un ensemble, on parle de catégorie localement petite.
-Et si nos objets forment un ensemble, on parle de petite catégorie </p>
+Je me souviens (il y a bien longtemps) de la démonstration par l'absurde que l'ensemble des ensembles n'existe pas.
+Et bien , c'est l'une des raisons pour laquelle on parle de catégorie....et pas d'ensemble.
+Mais si les fléches de notre catégorie  forment un ensemble, on parle alors de catégorie localement petite.
+Et si nos objets forment auusi un ensemble, on parle alors de petite catégorie 
 
 
 ### Remarque sur le monoïde : 
 
-- Un monoïde est une catégorie localement petite réduite à un unique objet.
+- Un monoïde est une catégorie localement petite c'est à dire réduite à un unique objet et à un ensemble de fléches.
 
+![image info](./images/monoid.png)
 
 ## Definition mathématique d'un foncteur et d'une catégorie
-
 
 j'ai repris les définitions que je trouve claires du cours Paris 13 de Damiano Mazza
 
