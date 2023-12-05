@@ -20,3 +20,13 @@ On peut chainer plusieurs monades entre-elles pour effectuer un calcul
 Voir un exemple de code sur https://github.com/jeandi7/gofunctional/tree/main/monad
 
 Le terme monad, comme functor  provient de la théorie mathématique des catégories.
+
+### Remarque sur le monade : 
+
+- On a vu précédemment qu'un monoïde est une catégorie localement petite réduite à un unique objet.
+- Une monade est elle même un monoïde
+- Une monade peut aussi être vue comme un foncteur particulier d'une catégorie vers elle-même
+
+En attendant, ce petit schéma sous Archimate pour résumer la situation :
+
+![image info](./images/categoryTheory.png)

@@ -43,7 +43,6 @@ En programmation fonctionelle, on restera toujours sur des petites catégories.
 ### Remarque sur le monoïde : 
 
 - Un monoïde est une catégorie localement petite réduite à un unique objet.
-- Une monade est elle même un monoïde
 
 
 ## Definition mathématique d'un foncteur et d'une catégorie
