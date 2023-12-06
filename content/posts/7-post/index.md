@@ -37,9 +37,14 @@ Pourquoi parler de catégorie ?
 
 Je me souviens (il y a bien longtemps) de la démonstration par l'absurde que l'ensemble des ensembles n'existe pas.
 Et bien , c'est l'une des raisons pour laquelle on parle de catégorie....et pas d'ensemble.
-Mais si les fléches de notre catégorie  forment un ensemble, on parle alors de catégorie localement petite.
-Et si nos objets forment auusi un ensemble, on parle alors de petite catégorie 
 
+Si les fléches de notre catégorie  forment un ensemble, on parle alors de catégorie localement petite.
+
+![image info](./images/locally.png)
+
+Si nos objets forment un ensemble, on parle alors de petite catégorie 
+
+![image info](./images/small.png)
 
 ### Remarque sur le monoïde : 
 
