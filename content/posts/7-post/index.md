@@ -18,8 +18,8 @@ Pour un exemple de code de functor voir https://github.com/jeandi7/gofunctional/
 Le terme functor provient de la théorie mathématique des catégories.
 
 Je dessine ici 2 catégories A et B , notre foncteur 
-- qui  fait passer notre structure de donnée avec des objets x, y ,z de la catégorie A  (y compris les fléches que l'on voit sur le dessin)  
-- aux objets F(x),F(y) et F(z) de la catégorie B (toujours avec leurs les flèches )
+- qui  fait passer notre structure de donnée avec des objets x, y de la catégorie A  (y compris les fléches que l'on voit sur le dessin)  
+- aux objets F(x),F(y) de la catégorie B (toujours avec leurs les flèches )
 
 On note qu'une catégorie est composée d'élements 
 - qui sont soit des objets 
