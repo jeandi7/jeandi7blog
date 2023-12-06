@@ -21,6 +21,10 @@ Je dessine ici 2 catégories A et B , notre foncteur
 - qui  fait passer notre structure de donnée avec des objets x, y de la catégorie A  (y compris les fléches que l'on voit sur le dessin)  
 - aux objets F(x),F(y) de la catégorie B (toujours avec leurs les flèches )
 
+si je nomme aussi mes fleches _f,g,h_ mon schéma devient
+
+![image info](./images/categoryf.png)
+
 On note qu'une catégorie est composée d'élements 
 - qui sont soit des objets 
 - soit des flèches
@@ -33,16 +37,18 @@ Ces fléches doivent vérifier certaines propriétées comme
 - l'associativité
 - la neutralité
 
+
 Pourquoi parler de catégorie ? 
 
-Je me souviens (il y a bien longtemps) de la démonstration par l'absurde que l'ensemble des ensembles n'existe pas.
-Et bien , c'est l'une des raisons pour laquelle on parle de catégorie....et pas d'ensemble.
+Je me souviens (il y a bien longtemps) de la démonstration par l'absurde que l'ensemble des ensembles n'existe pas(paradoxe de Russell).
+C'est l'une des raisons pour laquelle on parle de catégorie....et non d'ensemble.
+Pour pouvoir "gérer" une sorte de méta-ensemble qui contient des ensembles.
 
-Si les fléches de notre catégorie  forment un ensemble, on parle alors de catégorie localement petite.
+- Si les fléches de notre catégorie  forment un ensemble, on parle alors de catégorie localement petite.
 
 ![image info](./images/locally.png)
 
-Si nos objets forment un ensemble, on parle alors de petite catégorie 
+- Si nos objets forment un ensemble, on parle alors de petite catégorie 
 
 ![image info](./images/small.png)
 
