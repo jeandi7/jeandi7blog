@@ -9,7 +9,7 @@ Cela s'explique par le fait que ce capteur ne possède pas de filtre anti-aliasi
 
 ![Image](./images/japanExpo2023.png)
 
-Nokton 35mm 1.4 à 1.4(!) et 1/125s à 640 ISO.
+Nokton 35mm 1.4 à f2 et 1/125s à 640 ISO.
 
 J'ai l'impression de faire des photos au kodachrome.
 
