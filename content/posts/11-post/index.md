@@ -1,7 +1,7 @@
 +++
 title = 'Japan Expo 2023'
 date = 2023-07-15T10:30:07+01:00
-tag = ["photography"]
+tags = ["photography"]
 +++
 
 Le capteur CCD du M8 qui date de 2006 me surprend par sa netetté. 
