@@ -1,6 +1,7 @@
 +++
 title = 'Functional Programming : Functor and Category' 
 date = 2019-11-24T00:50:52+01:00
+tags = ["computer science"]
 +++
 
 ## Definition intuitive d'un foncteur et d'une catégorie

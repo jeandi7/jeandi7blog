@@ -1,6 +1,7 @@
 +++
 title = 'Hexagonal Programming : Part 1'
 date = 2022-11-03T00:06:38+01:00
+tags = ["computer science"]
 +++
 
 ## Programmation Hexagonale : (Part 1)

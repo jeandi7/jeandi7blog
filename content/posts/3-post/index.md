@@ -1,6 +1,7 @@
 +++
 title = 'Spinoza'
 date = 2023-10-29T02:09:24+01:00
+tags = ["reading"]
 +++
 
 

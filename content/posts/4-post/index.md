@@ -1,6 +1,7 @@
 +++
 title = 'Codage ....d optiques'
 date = 2023-11-14T00:45:37+01:00
+tags = ["photography"]
 +++
 
 - J'ai eu la chance de pouvoir trouver d'occasion un leica M8, sans garantie et dont personne ne voulait, 

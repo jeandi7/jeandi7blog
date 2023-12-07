@@ -1,6 +1,7 @@
 +++
 title = 'Functional Programming : Monoïdes et autres structures algébriques'
 date = 2019-10-18T02:05:38+01:00
+tags = ["computer science"]
 +++
 
 ![image info](./images/cube.png)

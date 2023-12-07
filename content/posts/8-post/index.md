@@ -1,6 +1,7 @@
 +++
 title = 'Functional Programming : Monad'
 date = 2019-11-25T23:16:47+01:00
+tags = ["computer science"]
 +++
 
 # La Monade

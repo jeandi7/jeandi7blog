@@ -1,6 +1,7 @@
 +++
 title = 'Pourquoi ce blog ?'
 date = 2019-10-01T00:39:21+01:00
+tags = ["computer science","photography","reading"]
 +++
 
 Cela fait plusieurs années que je note chaque jour des petites choses sur des carnets avec un crayon ....
