@@ -51,7 +51,9 @@ menu:
     - name: InProgress
       url: archives/
       weight: 5
-    
+    - name : Tags
+      url : /tags
+      weight: 30
 
 taxonomies:
   category: categories
