@@ -49,11 +49,11 @@ params:
 menu:
   main:
     - name: InProgress
-      url: archives/
-      weight: 5
+      url: /archives
+      weight: 1
     - name : Tags
       url : /tags
-      weight: 30
+      weight: 2
 
 taxonomies:
   category: categories
