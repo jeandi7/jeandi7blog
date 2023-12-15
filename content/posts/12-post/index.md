@@ -1,5 +1,5 @@
 +++
-title = 'Prage Café Louvre 2023'
+title = 'Prague Café le Louvre 2023'
 date = 2023-08-17T16:05:02+01:00
 tags = ["photography"]
 +++
