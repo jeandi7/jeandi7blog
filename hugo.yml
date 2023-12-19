@@ -48,12 +48,12 @@ params:
 
 menu:
   main:
-    - name: InProgress
-      url: /archives
-      weight: 1
     - name : Tags
       url : /tags
       weight: 2
+    - name : Who am I ?
+      url: /quisuisje
+      weight : 10
 
 taxonomies:
   category: categories
