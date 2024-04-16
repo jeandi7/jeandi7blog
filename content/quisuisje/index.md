@@ -35,7 +35,7 @@ Aix-Marseille University
 
 I currently teach the following courses
 - Archimate
-- Design/patterns in java
+- Design/patterns in java/golang
 - UML
 
 ## Courses :
