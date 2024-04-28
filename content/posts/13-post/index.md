@@ -1,5 +1,5 @@
 +++
-title = 'Berlin Checkpoint Charlie'
+title = 'Berlin Checkpoint Charlie 2024'
 date = 2024-04-28T23:44:17+02:00
 tags = ["photography"]
 +++
