@@ -10,6 +10,14 @@ La partie 1 posait le vocabulaire :
 
 ![Image](./images/HexagonalSchemaWithLabels.png)
 
+Ce que j'avais en tête :
+
+![Image](./images/jeandi7hexa.gif)
+
+Quelque chose de simple, un adaptateur à gauche sur le port d'entrée de l'hexagone, un adaptateur à droite sur le port de sortie  de l'hexagone et au milieu un traitement de base.
+
+Et quelque chose qui tienne dans moins de 200 lignes de code go.
+
 Cette partie 2 structure un projet golang avec les composants du schéma ci-dessus sous la forme :
 
 projet :
