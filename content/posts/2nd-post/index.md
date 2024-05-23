@@ -4,7 +4,7 @@ date = 2023-11-01T02:03:46+01:00
 tags = ["computer science"]
 +++
 
-# Programming style
+# Five programming styles
 
 "XIV. — Reason and logic are faculties which are sufficient in themselves, and in the operations which relate to them" (Thoughts for myself Marcus Aurelius 121 - 180)
 
@@ -25,7 +25,7 @@ tags = ["computer science"]
 
 ### by constraints (or logic programming):
 
-![image info](prolog.png)
+![image info](factInProlog.png)
 
 *explanation:*
 
@@ -41,18 +41,21 @@ tags = ["computer science"]
 
 we come across the predicate without argument "." , called in English “cut” and in French “coupe-choix” we end here.
 
+the code with ichiban prolog on https://github.com/jeandi7/prologfactorial
+
+
 ### in x86 Assembler (spaghetti style):
 
 ![image info](asm8088.png)
 
 the code on asm2 : https://github.com/jeandi7/asmandgo
 
-
 ###  sources:
 
 How to calculate factorial using prolog - prolog, factorial (living-sun.com)
 
 Marseille at the beginning of the 70s: ![image info](om.png)
+*straight to the but*
 
 >"Alain Colmerauer had developed and implemented Prolog for the
 >purpose of parsing natural language—Prolog’s clauses were intended initially as context-free
