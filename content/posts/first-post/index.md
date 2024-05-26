@@ -35,7 +35,7 @@ Voir : https://github.com/jeandi7/aiandgo
 
 - - Denton, D'Arcy Thompson: Il existe des archétypes platoniques dans la nature et des lois mathématiques guident les formes des êtres vivants.
 
-- - Conway-Morris, de Duve: L'évolution de la vie amène d'une manière ou d'une autre à des formes de vie de plus en plus complex es et à lémergence de la conscience.
+- - Conway-Morris, de Duve: L'évolution de la vie amène d'une manière ou d'une autre à des formes de vie de plus en plus complexes et à l' émergence de la conscience.
 
 - - Schützenberger: L'évolution suit un algorithme de contrôle optimal.
 
