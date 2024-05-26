@@ -14,6 +14,12 @@ J'ai toujours la collection de ce magazine à la maison
 
 ![Image](./images/odn1.png)
 
+_l'article de la revue_
+
+![Image](./images/odn2.png)
+
+_la revue l'ordinateur de poche du numéro 1 jusqu'au dernier numéro 23_
+
 Voir : https://github.com/jeandi7/aiandgo
 
 
