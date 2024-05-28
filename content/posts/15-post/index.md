@@ -6,7 +6,7 @@ tags = ["reading"]
 
 ## Zen and Quality
 
- - I discovered it 25 years ago. 
+ - I discovered the book 25 years ago. 
  - I read it twice.
  - I will read it a third time.
  
