@@ -6,9 +6,9 @@ tags = ["reading"]
 
 ## Zen and Quality
 
- - I discovered it 25 years ago 
- - I read it twice
- - I will read it a third time
+ - I discovered it 25 years ago. 
+ - I read it twice.
+ - I will read it a third time.
  
  - What can I add about this strange book that hasn’t already been said?
 
