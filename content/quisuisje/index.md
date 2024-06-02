@@ -8,6 +8,8 @@ jean-louis DIVOL
 
 jeandi7@gmail.com
 
+![Image](./images/qrcodejld.png)
+
 ## About :
 
 - Experienced Lead Architect with a demonstrated history of working in the computer software industry. 
