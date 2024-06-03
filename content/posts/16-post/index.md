@@ -1,5 +1,5 @@
 +++
-title = 'Google Zanzibar Access Management language-like with Golang + Prolog in less than 150 lines of code'
+title = 'Google Zanzibar Access Management language-like with Golang + Prolog'
 date = 2024-06-04T01:03:43+02:00
 tags = ["computer science"]
 +++
