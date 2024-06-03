@@ -6,9 +6,9 @@ tags = ["computer science"]
 
 Google Zanzibar is a globally distributed authorization system capable of processing million of client queries per second.
 
-At first glance Google's Consistent Global Authorization System paper is not easy to read
+At first glance Google's Consistent Global Authorization System paper (2019) is not easy to read.
 
-The code provided here is a didactic example to understand the spirit of the google zanzibar language
+The code provided here is a didactic example to understand the spirit of the google zanzibar language.
 
 For this example I used the Ichiban prolog library developed in Go.
 
