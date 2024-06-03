@@ -18,4 +18,11 @@ Most Zanzibar-like solutions are developed in Go (Zanzibar included) and sometim
 
 For more details see https://github.com/jeandi7/prologzanzibar
 
+_who can permission object ?_
+
+![Image](./images/question2.png)
+
+_what can user do ?_ 
+
 ![Image](./images/question3.png)
+
