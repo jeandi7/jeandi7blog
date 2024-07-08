@@ -1,7 +1,6 @@
 +++
 title = 'Zanzibar SpiceDB-like reader in less than 350 lines of golang'
 date = 2024-07-08T23:24:28+02:00
-draft = true
 tags = ["computer science"]
 +++
 
@@ -39,7 +38,7 @@ So i give myself the following BNF LL(1) grammar:
 
 ```
 
-# Zanzibar Reader
+# Zanzibar SpiceDB-like Reader
 
 Implementation is made with lexical analysis and syntaxic analysis
 
@@ -61,7 +60,7 @@ I also provide a small automated test in the zinterpreter_test.go with 7 differe
 
 # 
 
-the code on https://github.com/jeandi7/zreader1
+The complete golang reader on https://github.com/jeandi7/zreader1
 
 # 
 About Zanzibar : https://storage.googleapis.com/pub-tools-public-publication-data/pdf/0749e1e54ded70f54e1f646cd440a5a523c69164.pdf
