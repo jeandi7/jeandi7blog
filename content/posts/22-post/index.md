@@ -4,10 +4,6 @@ date = 2024-09-01T23:29:55+02:00
 tags = ["computer science"]
 +++
 
-part 1 is here : https://github.com/jeandi7/zreader1
-
-part 2 is here : https://github.com/jeandi7/zreader2
-
 This time, I want to integrate 2 features:
 
 # Feature 1 : the “Subject Relations”
@@ -90,3 +86,7 @@ Using the generated zedschema6.png file with PlantUML helps us to show the Archi
 # Code and details 
 
 Code and details are here : https://github.com/jeandi7/zreader3
+
+part 1 is here : https://github.com/jeandi7/zreader1
+
+part 2 is here : https://github.com/jeandi7/zreader2
