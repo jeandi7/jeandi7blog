@@ -8,7 +8,7 @@ part 1 is here : https://github.com/jeandi7/zreader1
 
 part 2 is here : https://github.com/jeandi7/zreader2
 
-This time, I wanted to integrate 2 features:
+This time, I want to integrate 2 features:
 
 # Feature 1 : the “Subject Relations”
 
