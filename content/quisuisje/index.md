@@ -15,6 +15,7 @@ jeandi7@gmail.com
 - Experienced Lead Architect with a demonstrated history of working in the computer software industry. 
 - Skilled in Enterprise Architecture : Business Process Design, IT Strategy, Application Architecture, and Scrum. 
 - Skilled in Software Development. 
+- Speaker at Devoxx France (2024)
 
 ## Education :
 
