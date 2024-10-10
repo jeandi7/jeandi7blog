@@ -24,7 +24,7 @@ So I have added in the grammar the part  ![zname](./images/znamePart.png) as fol
 
 (This is still the hardest part of design)
 
-# BNF grammar with Wildcard feature
+# EBNF grammar with Wildcard feature
 
 ```
 // Zanzibar restricted EBNF grammar
