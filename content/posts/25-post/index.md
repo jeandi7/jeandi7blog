@@ -2,7 +2,6 @@
 title = 'Quadriphonic SQ decoder in less than 50 lines of golang or Analog Computing in Digital Computing Era : Part 1'
 date = 2024-11-24T23:40:40+01:00
 tags = ["computer science"]
-draft = true
 +++
 
 I have always been fascinated by the process of recording images and sound and being able to reproduce it.
