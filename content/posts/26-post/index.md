@@ -1,28 +1,63 @@
 +++
-title = 'IA Algorithme Intuition Creativité'
+title = 'AI Algorithm Intuition Creativity'
 date = 2024-12-03T23:40:40+01:00
 tags = ["reading"]
-draft = true
 +++
 
-## IA 
+## AI : Symbolic versus Connectionist
 
-Je viens de finir la lecture du livre "IA : L'intuition et la création à l'épreuve des algorithmes" par ALBAN LEVEAU-VALLIER chez "l'éditeur collection milieux, CHAMP VALLON."
+My father gave me the following book "La Bionique from Lucien Gérardin" when I was 12-13 years old:
 
-Le livre est très dense et fourmille de références philosophiques.
+![example](./images/LaBionique2.png)
 
-Je vais en citer une seule, qui se situe vers le début du livre chapitre 2.
+*At that time, I was watching "The Six Million Dollar Man" with Lee Majors on TV, which is why the title (Bionics) of the book intrigued me greatly...*
 
-L'auteur compare alors les 2 écoles de l'IA.
+It was the first time I came across the term 'perceptron', one of the first artificial neural networks described in this book,  and there was a page that pitted a digital  computer against an analog  one.
+
+![example](./images/LaBionique3.png)
+
+*A digital computer component on the left page, an analog computer element on the right page.*
+
+You can recognize the patch panel of the analog computer.
+
+Wow. I was fascinated. I long kept this opposition of concepts and technologies in my mind.
+
+Lately, I've finished reading the book "IA : L'intuition et la création à l'épreuve des algorithmes" ("AI: Intuition and creation put to the test of algorithms") by ALBAN LEVEAU-VALLIER at "the publisher collection milieus, CHAMP VALLON." (edited in October 2023)
+
+![example](./images/IA_Intuition.png)
+
+The book is very dense and full of philosophical references. 
+I was able to delve deeper into and review philosophical points.
+
+I will quote just one philosophical point, which is located towards the beginning of the book chapter 2.
+
+The author observes that it seems difficult to provide a universally accepted definition for the term AI.
+
+What can be said is that there have been two schools of thought in AI since 1956.
+The conference during the summer of 1955 at Dartmouth College is considered the founding event of the discipline.
+
+The author then compares the two schools of AI.
 
 
-| Ecole  | Symbolique   |  Connexionniste  |
+| School  | Symbolic   |  Connectionist  |
 |---    |---    |---    |
-|Apprentissage | Ajout par le programmeur|Par l'exemple|
-|Représentation   | Définitions explicites|Valeurs numériques|
-|Mémoire|Stockée à part|Distribuée dans le réseau|
-|Opérations|Séquentielles|Parallèles|
+|Learning | Added by the programmer|By example|
+|Representation   | Explicit definitions |Numerical values|
+|Memory|Stored separately|Distributed in the network|
+|Operations|Sequential|Parallel|
 
 
+Far from being opposed (which seems to be the case after a first reading of this table), the two schools accept as true the following hypothesis:
 
-![Image](./images/IA_Intuition.png)
+"The study is to proceed on the basis of the conjecture that every aspect of learning or any other feature of intelligence can in principle be so precisely described that a machine can be made to simulate it."
+
+The two schools pursue the same objective. The term simulation is very important.
+
+This is followed by a very interesting discussion on the history of the two schools, what sets them apart, and what brings them together.
+
+Reading this last book means that I no longer oppose so directly the two schools now.
+
+And Analog and Digital are complementary technologies.
+
+See https://jeandi7.github.io/jeandi7blog/posts/25-post/
+
