@@ -6,7 +6,7 @@ tags = ["reading"]
 
 ## AI : Symbolic versus Connectionist
 
-My father gave me the following book "La Bionique from Lucien Gérardin" when I was 12-13 years old:
+My father gave me the following book “La Bionique from Lucien Gérardin, edited in 1968” when I was 12-13 years old:
 
 ![example](./images/LaBionique2.png)
 
@@ -21,6 +21,8 @@ It was the first time I came across the term 'perceptron', one of the first arti
 You can recognize the patch panel of the analog computer.
 
 Wow. I was fascinated. I long kept this opposition of concepts and technologies in my mind.
+
+I am now going to jump a few decades.
 
 Lately, I've finished reading the book "IA : L'intuition et la création à l'épreuve des algorithmes" ("AI: Intuition and creation put to the test of algorithms") by ALBAN LEVEAU-VALLIER at "the publisher collection milieus, CHAMP VALLON." (edited in October 2023)
 
@@ -53,11 +55,15 @@ Far from being opposed (which seems to be the case after a first reading of this
 
 The two schools pursue the same objective. The term simulation is very important.
 
+(You will note that the verb used is 'simulate' and not 'create')
+
 This is followed by a very interesting discussion on the history of the two schools, what sets them apart, and what brings them together.
 
 Reading this last book means that I no longer oppose so directly the two schools now.
 
-And Analog and Digital are complementary technologies.
+The symbolic school relies on rules and discret symbols (associated with the digital), while the connectionist school draws inspiration from cybernetics, neural networks and operates continuously (associated with the analog).
+
+Analog and Digital are complementary technologies.
 
 See https://jeandi7.github.io/jeandi7blog/posts/25-post/
 
