@@ -1,5 +1,5 @@
 +++
-title = 'Quadriphonic SQ decoder in less than 300 lines of golang : Part 3'
+title = 'Quadriphonic SQ decoder in less than 600 lines of golang : Part 3'
 date = 2025-02-11T00:37:00+01:00
 tags = ["computer science"]
 +++
@@ -63,6 +63,30 @@ You can see the difference between the front and back signals under Audacity.
 *back stereo channels lb and rb*
 
 the code golang is on https://github.com/jeandi7/sqdecoder3
+
+You can also generate a single output file in 4.0 format with the command :
+
+```
+go run sqdecoder.go -input "sqdemo1.wav" -audioformat "4.0"
+```
+the sqdemo1_4_0.wav file will be generated.
+
+or you can generate a single output file in 5.1 format (experimental) with the command
+
+```
+go run sqdecoder.go -input "sqdemo1.wav" -audioformat "5.1"
+
+```
+In 5.1 format the center and bass channels are recreated as follows
+
+```
+center = alpha * (lf + rf)
+lfe = 0.316*Lowpassfilter(<350hz,lf + rf + lb + rb)
+```
+
+The 0.316 coeff is a -10db attenuation
+
+db = 20log(coeff)
 
 to be continued...
 
