@@ -81,14 +81,26 @@ In 5.1 format the center and bass channels are recreated as follows
 
 ```
 center = alpha * (lf + rf)
-lfe = 0.316*Lowpassfilter(<350hz,lf + rf + lb + rb)
+lfe = 0.316*Lowpassfilter(<150hz,lf + rf + lb + rb)
 ```
 
 The 0.316 coeff is a -10db attenuation
 
 db = 20log(coeff)
 
+I use a lowpassfilter based on a continuous function for the bass channel in order to reduce the oscillations caused by the approximation.
+
+![example](./images/lowpass1.png)
+
+*multiplying the spectrum by a rectangular window function H(f) and by a continuous function in the frequency domain*
+
+See for the lowpassfilter code and schema specifically at https://github.com/jeandi7/lowFilterPassFFT
+
+The code for the decoder is still at : https://github.com/jeandi7/sqdecoder3
+
+
 to be continued...
+
 
 # sources
 
