@@ -1,5 +1,5 @@
 +++
-title = 'Quadriphonic SQ decoder in less than 600 lines of golang : Part 3'
+title = 'Quadriphonic SQ decoder in less than 800 lines of golang : Part 3'
 date = 2025-02-11T00:37:00+01:00
 tags = ["computer science"]
 +++
@@ -7,6 +7,8 @@ tags = ["computer science"]
 This part follows part 1 and part 2 from Quadriphonic SQDecoder from my previous articles (Analog and Digital computing).
 
 # part 3 : Digital SQ Decoding
+
+![example](./images/SQsymbol.png)
 
 Unlike the analog part 2 which was a continuous processing, we are in discrete processing here.
 
@@ -67,14 +69,16 @@ the code golang is on https://github.com/jeandi7/sqdecoder3
 You can also generate a single output file in 4.0 format with the command :
 
 ```
-go run sqdecoder.go -input "sqdemo1.wav" -audioformat "4.0"
+go run sqdecoder.go -input "sqdemo1.wav" -audioformat "4.0" or
+go run sqdecoder.go -input "sqdemo1.wav" -audioformat "4.0" -matrixformat "SQ"
 ```
 the sqdemo1_4_0.wav file will be generated.
 
 or you can generate a single output file in 5.1 format (experimental) with the command
 
 ```
-go run sqdecoder.go -input "sqdemo1.wav" -audioformat "5.1"
+go run sqdecoder.go -input "sqdemo1.wav" -audioformat "5.1" or
+go run sqdecoder.go -input "sqdemo1.wav" -audioformat "5.1" -matrixformat "SQ"
 
 ```
 In 5.1 format the center and bass channels are recreated as follows
@@ -97,6 +101,33 @@ I use a lowpassfilter based on a continuous function for the bass channel in ord
 See for the lowpassfilter code and schema specifically at https://github.com/jeandi7/lowFilterPassFFT
 
 The code for the decoder is still at : https://github.com/jeandi7/sqdecoder3
+
+
+# Digital QS Decoding
+
+![example](./images/QSsymbol.png)
+
+Both QS and SQ are matrix-based quadraphonic systems. 
+QS matrix was developed by Sansui Electric and debuted in US in March 1971.
+QS uses a symmetrical phase-amplitude matrix.
+
+```
+lf = 0.924*LT + 0.383*RT
+rf = 0.383*LT+0.924*RT
+lb = j * (0.383*RT - 0.924*LT)
+rb = j * (0.383*LT - 0.924*RT)
+```
+I have very few records in the QS standard, but it was easy to add this decoding, so I did it. 
+
+I included a sample file qsdemo2.wav in QS format in the project.
+
+Commands are identical and work the same as in SQ mode :
+
+```
+go run sqdecoder.go -input "qsdemo2.wav" -matrixformat "QS"
+go run sqdecoder.go -input "qsdemo2.wav" -audioformat "4.0" -matrixformat "QS"
+go run sqdecoder.go -input "qsdemo2.wav" -audioformat "5.1" -matrixformat "QS"
+```
 
 
 to be continued...
