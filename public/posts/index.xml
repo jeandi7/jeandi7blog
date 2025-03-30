@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on Jeandi7 Blog</title>
+    <link>http://localhost:1313/jeandi7blog/posts/</link>
+    <description>Recent content in Posts on Jeandi7 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Copyright © 2023, jean-louis DIVOL,  all rights reserved.</copyright>
+    <lastBuildDate>Tue, 11 Feb 2025 00:37:00 +0100</lastBuildDate><atom:link href="http://localhost:1313/jeandi7blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Quadriphonic SQ decoder in less than 800 lines of golang : Part 3</title>
+      <link>http://localhost:1313/jeandi7blog/posts/28-post/</link>
+      <pubDate>Tue, 11 Feb 2025 00:37:00 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/28-post/</guid>
+      <description>&lt;p&gt;This part follows part 1 and part 2 from Quadriphonic SQDecoder from my previous articles (Analog and Digital computing).&lt;/p&gt;
+&lt;h1 id=&#34;part-3--digital-sq-decoding&#34;&gt;part 3 : Digital SQ Decoding&lt;/h1&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/SQsymbol.png&#34; alt=&#34;example&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Unlike the analog part 2 which was a continuous processing, we are in discrete processing here.&lt;/p&gt;
+&lt;p&gt;The idea here is to use Fast Fourier Transform (FFT) because it speeds up processing  which is essential for handling large data sets efficiently.&lt;/p&gt;
+&lt;p&gt;We go back and forth between the time domain and the frequency domain.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quadriphonic SQ decoder in less than 50 lines of golang or Analog Computing in Digital Computing Era : Part 2</title>
+      <link>http://localhost:1313/jeandi7blog/posts/27-post/</link>
+      <pubDate>Sun, 26 Jan 2025 21:59:31 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/27-post/</guid>
+      <description>&lt;p&gt;This part follows part 1 from Quadriphonic SQDecoder from my previous article.&lt;/p&gt;
+&lt;h1 id=&#34;analog-computing-in-digital-computing-era&#34;&gt;Analog Computing in Digital Computing Era&lt;/h1&gt;
+&lt;p&gt;A few words about Analog Computing.&lt;/p&gt;
+&lt;p&gt;The analog computer has existed since the dawn of time (think of the Antikythera mechanism from ancient Greece).&lt;/p&gt;
+&lt;p&gt;I learned a lot of things in this book about analog computing.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/analogAndHybrid-M.png&#34; alt=&#34;example&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;The book from Dr. Bernd Ulmann is a gem.&lt;/p&gt;
+&lt;p&gt;It is both theoretical and practical-oriented for engineers.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>AI Algorithm Intuition Creativity</title>
+      <link>http://localhost:1313/jeandi7blog/posts/26-post/</link>
+      <pubDate>Tue, 03 Dec 2024 23:40:40 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/26-post/</guid>
+      <description>&lt;h2 id=&#34;ai--symbolic-versus-connectionist&#34;&gt;AI : Symbolic versus Connectionist&lt;/h2&gt;
+&lt;p&gt;My father gave me the following book “La Bionique from Lucien Gérardin, edited in 1968” when I was 12-13 years old:&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/LaBionique2.png&#34; alt=&#34;example&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;At that time, I was watching &amp;ldquo;The Six Million Dollar Man&amp;rdquo; with Lee Majors on TV, which is why the title (Bionics) of the book intrigued me greatly&amp;hellip;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;It was the first time I came across the term &amp;lsquo;perceptron&amp;rsquo;, one of the first artificial neural networks described in this book,  and there was a page that pitted a digital  computer against an analog  one.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Quadriphonic SQ decoder in less than 50 lines of golang or Analog Computing in Digital Computing Era : Part 1</title>
+      <link>http://localhost:1313/jeandi7blog/posts/25-post/</link>
+      <pubDate>Sun, 24 Nov 2024 23:40:40 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/25-post/</guid>
+      <description>&lt;p&gt;I have always been fascinated by the process of recording images and sound and being able to reproduce it.&lt;/p&gt;
+&lt;p&gt;At six years old I was impressed by the story of Edison and his phonograph.(&amp;ldquo;Mary had a little lamb&amp;hellip;&amp;rdquo;)&lt;/p&gt;
+&lt;p&gt;I would like now to highlight the differences between analog and digital design in storage and information processing.&lt;/p&gt;
+&lt;p&gt;In this part 1, the question that came to my mind was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;How to engrave an analog signal in a single vinyl record groove for stereo and quadraphonic sound ?&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h1 id=&#34;monophonic--player&#34;&gt;Monophonic  Player&lt;/h1&gt;
+&lt;p&gt;We are located at the end of the 19th century.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zanzibar SpiceDB-like Reader &#43;  Archimate PlantUML Generation Code  in less than 900 lines of golang : part IV</title>
+      <link>http://localhost:1313/jeandi7blog/posts/24-post/</link>
+      <pubDate>Wed, 09 Oct 2024 00:34:16 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/24-post/</guid>
+      <description>&lt;p&gt;This part follows parts I,II and III from Zanzibar SpiceDB-like Reader.&lt;/p&gt;
+&lt;p&gt;This time, I wanted to integrate the wildcard  feature.&lt;/p&gt;
+&lt;p&gt;This is the last feature to be implemented to cover all the features of the relationships in SpiceDB.&lt;/p&gt;
+&lt;h1 id=&#34;wildcard-feature&#34;&gt;“Wildcard” Feature&lt;/h1&gt;
+&lt;p&gt;This feature is described in the zanzibar documentation.&lt;/p&gt;
+&lt;p&gt;The spicedb/authzed documentation explains :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Relations can also specify wildcards to indicate that a grant can be made to the resource type as a whole, rather than a particular resource.
+This allows public access to be granted to a particular subect type.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Stockholm 2024</title>
+      <link>http://localhost:1313/jeandi7blog/posts/23-post/</link>
+      <pubDate>Thu, 12 Sep 2024 00:33:41 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/23-post/</guid>
+      <description>&lt;p&gt;Stockholm August 2024&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/stockholm.jpg&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;First day in stockholm, rain and rainbow&lt;/p&gt;
+&lt;p&gt;nikon D610, 58mm , f2, 1/1000, ISO 1600 ISO&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zanzibar SpiceDB-like Reader &#43;  Archimate PlantUML Generation Code  in less than 650 lines of golang : part III</title>
+      <link>http://localhost:1313/jeandi7blog/posts/22-post/</link>
+      <pubDate>Sun, 01 Sep 2024 23:29:55 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/22-post/</guid>
+      <description>&lt;p&gt;This time, I want to integrate 2 features:&lt;/p&gt;
+&lt;h1 id=&#34;feature-1--the-subject-relations&#34;&gt;Feature 1 : the “Subject Relations”&lt;/h1&gt;
+&lt;p&gt;This feature is described in the zanzibar documentation.&lt;/p&gt;
+&lt;p&gt;The spicedb/authzed documentation explains :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Relations can also &amp;ldquo;contain&amp;rdquo; references to other relations/permissions.
+For example, a group&amp;rsquo;s member relation might include the set of objects marked as member
+of another group, indicating that the other group&amp;rsquo;s members are, themselves, members of this group:&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;So I changed the grammar from part 2 as follows, to be able to modify the lexical analysis.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bratislava 2024</title>
+      <link>http://localhost:1313/jeandi7blog/posts/21-post/</link>
+      <pubDate>Tue, 13 Aug 2024 19:54:52 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/21-post/</guid>
+      <description>&lt;p&gt;Bratislava 2024&lt;/p&gt;
+&lt;p&gt;Well, an easy effect I know&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/Bratislava.jpg&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;nikon D610, sigma 24-105 at 52mm, f9.5, 1/350, ISO 200&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wien Kunsthistorisches Museum 2024</title>
+      <link>http://localhost:1313/jeandi7blog/posts/20-post/</link>
+      <pubDate>Wed, 07 Aug 2024 16:03:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/20-post/</guid>
+      <description>&lt;p&gt;Wien Kunsthistorisches Museum 2024&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/Vienne1-2024.jpg&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ich hatte nur eine Sekunde Zeit,um dieses Foto von Adam und Eva von Lucas Cranach (1515) aufzunehmen.&lt;/p&gt;
+&lt;p&gt;Die Haarfarbe des Mädchens stimmte mit der Haarfarbe von Eva überein.&lt;/p&gt;
+&lt;p&gt;nikon D610, 50mm f2, 1/60 , 800 ISO&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zanzibar SpiceDB-like Reader &#43;  Archimate PlantUML Generation Code  in less than 450 lines of golang : part II</title>
+      <link>http://localhost:1313/jeandi7blog/posts/19-post/</link>
+      <pubDate>Thu, 25 Jul 2024 01:42:04 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/19-post/</guid>
+      <description>&lt;p&gt;part One is here : &lt;a href=&#34;https://github.com/jeandi7/zreader1&#34;&gt;https://github.com/jeandi7/zreader1&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;We find ourselves 100 lines later (350 + 100) from part I&lt;/p&gt;
+&lt;p&gt;Unlike Part One, the Reader adds now a generation of a plantUML code file.&lt;/p&gt;
+&lt;p&gt;Honestly compared to part 1, this is the easiest part.&lt;/p&gt;
+&lt;p&gt;The most complex part is writing the BNF grammar.&lt;/p&gt;
+&lt;p&gt;The goal is to visualize a business object diagram  (with Archimate standard) with the well-know plantUML tool.&lt;/p&gt;
+&lt;p&gt;The reader part II process is :&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zanzibar SpiceDB-like reader in less than 350 lines of golang</title>
+      <link>http://localhost:1313/jeandi7blog/posts/18-post/</link>
+      <pubDate>Mon, 08 Jul 2024 23:24:28 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/18-post/</guid>
+      <description>&lt;h1&gt;&lt;/h1&gt;
+&lt;p&gt;I wanted to offer in Golang the example of a small handwritten reader.
+(This is an exercise I often do when learning a new language)&lt;/p&gt;
+&lt;p&gt;Since I&amp;rsquo;ve been working with SpiceDB for a while, the purpose of this example is to provide sample code that implements a subset of the SpiceDB grammar.&lt;/p&gt;
+&lt;p&gt;SpiceDB is Google Zanzibar like and is available under the permissive Apache License 2.0.&lt;/p&gt;
+&lt;p&gt;Google Zanzibar Authorization System is a scalable service for managing fine-grained access control using Relationship-Based Access Control (ReBAC).
+(See &lt;a href=&#34;https://github.com/jeandi7/prologzanzibar&#34;&gt;https://github.com/jeandi7/prologzanzibar&lt;/a&gt;)&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Dark Matter (Blake Crouch)</title>
+      <link>http://localhost:1313/jeandi7blog/posts/17-post/</link>
+      <pubDate>Sun, 07 Jul 2024 10:48:13 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/17-post/</guid>
+      <description>&lt;h2 id=&#34;dark-matter-blake-crouch&#34;&gt;Dark Matter (Blake Crouch)&lt;/h2&gt;
+&lt;p&gt;Ma femme et mes enfants m&amp;rsquo;ont offert ce roman SF de Blake Crouch.
+Je ne connaissais pas cet auteur, je les en remercie.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai eu quelques jours de disponibles fin juin et je l&amp;rsquo;ai lu d&amp;rsquo;une traite !
+C&amp;rsquo;est une bonne variation sur les univers parallèles et l&amp;rsquo;interprétation de la mécanique quantique d&amp;rsquo;Everett.&lt;/p&gt;
+&lt;p&gt;PS : Au début du roman, l&amp;rsquo;auteur cite le principe du rasoir d&amp;rsquo;Occam.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Google Zanzibar Access Management language-like with Golang &#43; Prolog</title>
+      <link>http://localhost:1313/jeandi7blog/posts/16-post/</link>
+      <pubDate>Tue, 04 Jun 2024 01:03:43 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/16-post/</guid>
+      <description>&lt;p&gt;Google Zanzibar is a globally distributed authorization system capable of processing million of client queries per second.&lt;/p&gt;
+&lt;p&gt;At first glance Google&amp;rsquo;s Consistent Global Authorization System paper (2019) is not easy to read.&lt;/p&gt;
+&lt;p&gt;The code provided here is a didactic example to understand the spirit of the google zanzibar language.&lt;/p&gt;
+&lt;p&gt;For this example I used the Ichiban prolog library developed in Go.&lt;/p&gt;
+&lt;p&gt;There are today several access management solutions that are inspired by Zanzibar (Zanzibar is exclusively used by Google).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Robert M.Pirsig : Zen and the art of motorcycle maintenance (1974)</title>
+      <link>http://localhost:1313/jeandi7blog/posts/15-post/</link>
+      <pubDate>Wed, 29 May 2024 01:12:17 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/15-post/</guid>
+      <description>&lt;h2 id=&#34;zen-and-quality&#34;&gt;Zen and Quality&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I discovered the book 25 years ago.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I read it twice.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I will read it a third time.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;What can I add about this strange book that hasn’t already been said?&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/ZenChapter8.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This schema is extract from chapter8 and made with @Archi&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;(Chapter 8) &amp;hellip;I look at the shapes of the steel now and I see &lt;em&gt;ideas&lt;/em&gt;.
+He thinks I&amp;rsquo;m working on &lt;em&gt;parts&lt;/em&gt;.
+I&amp;rsquo;m working on &lt;em&gt;concepts&lt;/em&gt;&amp;hellip;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hexagonal Programming : Part 2</title>
+      <link>http://localhost:1313/jeandi7blog/posts/14-post/</link>
+      <pubDate>Wed, 15 May 2024 01:15:30 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/14-post/</guid>
+      <description>&lt;h2 id=&#34;programmation-hexagonale--part-2&#34;&gt;Programmation Hexagonale : (Part 2)&lt;/h2&gt;
+&lt;p&gt;La partie 1 posait le vocabulaire :&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/HexagonalSchemaWithLabels.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ce que j&amp;rsquo;avais en tête :&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/jeandi7hexa.gif&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Quelque chose de simple, un adaptateur à gauche sur le port d&amp;rsquo;entrée de l&amp;rsquo;hexagone, un adaptateur à droite sur le port de sortie  de l&amp;rsquo;hexagone et au milieu un traitement de base.&lt;/p&gt;
+&lt;p&gt;Et quelque chose qui tienne dans moins de 200 lignes de code go.&lt;/p&gt;
+&lt;p&gt;Cette partie 2 structure un projet golang avec les composants du schéma ci-dessus sous la forme :&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Berlin Checkpoint Charlie 2024</title>
+      <link>http://localhost:1313/jeandi7blog/posts/13-post/</link>
+      <pubDate>Sun, 28 Apr 2024 23:44:17 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/13-post/</guid>
+      <description>&lt;p&gt;Berlin Checkpoint Charlie Avril 2024&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/berlin-checkpoint.jpg&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;M8 160 ISO.
+Nokton 35mm à f5.6 et 1/500s.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Codage ....d optiques</title>
+      <link>http://localhost:1313/jeandi7blog/posts/4-post/</link>
+      <pubDate>Tue, 14 Nov 2023 00:45:37 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/4-post/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;J&amp;rsquo;ai eu la chance de pouvoir trouver d&amp;rsquo;occasion un leica M8, sans garantie et dont personne ne voulait,
+à un prix inférieur à un iphone 11 d&amp;rsquo;occasion à ce jour.
+j&amp;rsquo;ai codé ce week-end 3 optiques voigtlander , un 20mm f4, un nokton 35mm 1.4 et un 75mm 2.5 en monture vissante avec un adapteur M&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Le codage permet au boitier de reconnaitre l&amp;rsquo;optique, de corriger le fichier dng à la volée et de remplir l&amp;rsquo;EXIF avec
+la focale, et une estimation de l&amp;rsquo;ouverture.
+En effet, comme il n&amp;rsquo;existe aucun couplage de diaphgrame  entre les optiques M et le boitier M, un petit logiciel embarqué dans le boitier estime la valeur de l&amp;rsquo;ouverture en fonction de la lumière ambiante mesurée et la vitesse choisie.
+Je n&amp;rsquo;y croyais pas trop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Style</title>
+      <link>http://localhost:1313/jeandi7blog/posts/2nd-post/</link>
+      <pubDate>Wed, 01 Nov 2023 02:03:46 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/2nd-post/</guid>
+      <description>&lt;h1 id=&#34;five-programming-styles&#34;&gt;Five programming styles&lt;/h1&gt;
+&lt;p&gt;&amp;ldquo;XIV. — Reason and logic are faculties which are sufficient in themselves, and in the operations which relate to them&amp;rdquo; (Thoughts for myself Marcus Aurelius 121 - 180)&lt;/p&gt;
+&lt;h2 id=&#34;write-a-factorial-with-python-in-&#34;&gt;Write a factorial (with python) in :&lt;/h2&gt;
+&lt;h3 id=&#34;structured-programming-style&#34;&gt;structured programming style:&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;structured.png&#34; alt=&#34;image info&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;recursive-programming-style&#34;&gt;recursive programming style:&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;recursive.png&#34; alt=&#34;image info&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;functional-programming-style&#34;&gt;functional programming style:&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;lambda.png&#34; alt=&#34;image info&#34;  /&gt;
+&lt;/p&gt;
+&lt;h3 id=&#34;by-constraints-or-logic-programming&#34;&gt;by constraints (or logic programming):&lt;/h3&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;factInProlog.png&#34; alt=&#34;image info&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;explanation:&lt;/em&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;fact(5,120):- fact(4,24) and 120 = 24*5&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Evolution</title>
+      <link>http://localhost:1313/jeandi7blog/posts/first-post/</link>
+      <pubDate>Wed, 01 Nov 2023 01:40:44 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/first-post/</guid>
+      <description>&lt;h2 id=&#34;introduction-&#34;&gt;Introduction :&lt;/h2&gt;
+&lt;p&gt;Le code du jeu de la vie (1970 : John Conway encore et toujours) fut proposé dans le magazine &amp;ldquo;L ordinateur de poche &amp;quot; en Avril 1981&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai toujours la collection de ce magazine à la maison&lt;/p&gt;
+&lt;p&gt;158 bytes sur Ti58 !!!&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/odn1.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;l&amp;rsquo;article de la revue&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/odn2.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;la revue l&amp;rsquo;ordinateur de poche du numéro 1 jusqu&amp;rsquo;au dernier numéro 23&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Voir : &lt;a href=&#34;https://github.com/jeandi7/aiandgo&#34;&gt;https://github.com/jeandi7/aiandgo&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;remarques&#34;&gt;Remarques:&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Les mécanismes actuels de l&amp;rsquo;évolution sont,et de loin,bien plus riches que n&amp;rsquo;importe lequel des algorithmes génétiques.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Spinoza</title>
+      <link>http://localhost:1313/jeandi7blog/posts/3-post/</link>
+      <pubDate>Sun, 29 Oct 2023 02:09:24 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/3-post/</guid>
+      <description>&lt;h2 id=&#34;spinoza-&#34;&gt;Spinoza :&lt;/h2&gt;
+&lt;p&gt;Je viens de finir la lecture de la biographie de Spinoza par Frédéric Lenoir. (Le miracle Spinoza)
+J&amp;rsquo;ai appris beaucoup de choses.
+Je complète avec Marc-Aurèle.
+Mon duo du moment : Marc-Aurèle + Spinoza.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prague Café le Louvre 2023</title>
+      <link>http://localhost:1313/jeandi7blog/posts/12-post/</link>
+      <pubDate>Thu, 17 Aug 2023 16:05:02 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/12-post/</guid>
+      <description>&lt;p&gt;Prague
+Café le Louvre.&lt;/p&gt;
+&lt;p&gt;Fond du café. Ces tables de billard recouvertes d&amp;rsquo;un drap en ce jour brûlant d&amp;rsquo;août 2023.
+Einstein et Kafka qui fréquentent les lieux début 1900.
+Ont-ils simplement posés les yeux dessus ? joués dessus ?&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/cafeLouvre.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;M8 640 ISO.
+Nokton 35mm à 1/15s f2.0 env.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Japan Expo 2023</title>
+      <link>http://localhost:1313/jeandi7blog/posts/11-post/</link>
+      <pubDate>Sat, 15 Jul 2023 10:30:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/11-post/</guid>
+      <description>&lt;p&gt;Le capteur CCD du M8 qui date de 2006 me surprend par sa netetté.&lt;/p&gt;
+&lt;p&gt;Cela s&amp;rsquo;explique par le fait que ce capteur ne possède pas de filtre anti-aliasing.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/japanExpo2023.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Nokton 35mm 1.4 à f2 et 1/125s à 640 ISO.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai l&amp;rsquo;impression de faire des photos au kodachrome.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cine UGC </title>
+      <link>http://localhost:1313/jeandi7blog/posts/10-post/</link>
+      <pubDate>Sun, 21 May 2023 01:05:24 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/10-post/</guid>
+      <description>&lt;p&gt;Cine UGC avant la séance avec un
+Konica Hexar et 50mm M-Hexanon à f2 et 1/4s en argentique en en lumière ambiante.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/cineUGC50mmHexar.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pellicule N&amp;amp;B Fomapan Creative 200 ISO&lt;/li&gt;
+&lt;li&gt;Révélateur Ilfosol 1+14 : 6mn à 20°&lt;/li&gt;
+&lt;li&gt;Fixateur : 1+4 : 4 mn à 20°&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Hexagonal Programming : Part 1</title>
+      <link>http://localhost:1313/jeandi7blog/posts/9-post/</link>
+      <pubDate>Thu, 03 Nov 2022 00:06:38 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/9-post/</guid>
+      <description>&lt;h2 id=&#34;programmation-hexagonale--part-1&#34;&gt;Programmation Hexagonale : (Part 1)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Pour poser le vocabulaire du design hexagonal.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Un schéma sous le standard Archimate.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Driver Actor, Driven Actor, (InBound) Port, (OutBound) Port, Hexagonal Core&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/AdaptersAndPorts1.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Functional Programming : Monad</title>
+      <link>http://localhost:1313/jeandi7blog/posts/8-post/</link>
+      <pubDate>Mon, 25 Nov 2019 23:16:47 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/8-post/</guid>
+      <description>&lt;h1 id=&#34;la-monade&#34;&gt;La Monade&lt;/h1&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;La monade, on la trouve partout  sur le net
+et dans la littérature fonctionnelle&lt;/p&gt;
+&lt;p&gt;On trouve des explications mathématiques, formelles, par analogie, des dessins avec des boites et des animaux, etc&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Une monade c&amp;rsquo;est d&amp;rsquo;abord un style de programmation qui permet de traiter des données immutables à travers un pipe-line dans lequel on insère des traitements &amp;hellip;&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;On peut chainer plusieurs monades entre-elles pour effectuer un calcul&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Functional Programming : Functor and Category</title>
+      <link>http://localhost:1313/jeandi7blog/posts/7-post/</link>
+      <pubDate>Sun, 24 Nov 2019 00:50:52 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/7-post/</guid>
+      <description>&lt;h2 id=&#34;definition-intuitive-dun-foncteur-et-dune-catégorie&#34;&gt;Definition intuitive d&amp;rsquo;un foncteur et d&amp;rsquo;une catégorie&lt;/h2&gt;
+&lt;p&gt;En design pattern fonctionnel :&lt;/p&gt;
+&lt;h3 id=&#34;un-foncteur-functor&#34;&gt;Un foncteur (functor)&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;est une structure de données composée d&amp;rsquo;éléments et d&amp;rsquo;une opération de transformation
+qui s&amp;rsquo;applique à chacun des éléments de la structure de données et qui conserve cette structure&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Pour un exemple de code de functor voir &lt;a href=&#34;https://github.com/jeandi7/gofunctional/tree/main/functor&#34;&gt;https://github.com/jeandi7/gofunctional/tree/main/functor&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/category.png&#34; alt=&#34;image info&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Le terme functor provient de la théorie mathématique des catégories.&lt;/p&gt;
+&lt;p&gt;Je dessine ici 2 catégories A et B , notre foncteur&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Les mathématiques, les lois de la physique et l évolution</title>
+      <link>http://localhost:1313/jeandi7blog/posts/6-post/</link>
+      <pubDate>Thu, 21 Nov 2019 01:55:05 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/6-post/</guid>
+      <description>&lt;p&gt;Papier magnifique de Jean-Louis Krivine sur le lambda-cacul que je ne me lasse pas de lire et de relire.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.irif.fr/~krivine/articles/arco.pdf&#34;&gt;https://www.irif.fr/~krivine/articles/arco.pdf&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Functional Programming : Monoïdes et autres structures algébriques</title>
+      <link>http://localhost:1313/jeandi7blog/posts/5-post/</link>
+      <pubDate>Fri, 18 Oct 2019 02:05:38 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/5-post/</guid>
+      <description>&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/cube.png&#34; alt=&#34;image info&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;j&amp;rsquo;ai un groupe dans ma main et des souvenirs de première et de terminale C.&lt;/p&gt;
+&lt;p&gt;A l&amp;rsquo;époque je ne me doutais pas du rapport avec la programmation &amp;hellip;.
+Ce sont les monoïdes aujourd&amp;rsquo;hui qui m&amp;rsquo;intéressent.&lt;/p&gt;
+&lt;p&gt;Le code (simpliste) d&amp;rsquo;un monoide en golang ici :
+Voir &lt;a href=&#34;https://github.com/jeandi7/gofunctional/tree/main/monoid&#34;&gt;https://github.com/jeandi7/gofunctional/tree/main/monoid&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Le papier (célèbre) de Cyrille Martaire sur le DDD et les monoïdes  :
+Voir  &lt;a href=&#34;https://blog.arolla.fr/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf&#34;&gt;https://blog.arolla.fr/wp-content/uploads/2018/10/DomainModelingwithMonoids.pdf&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;En attendant mon petit mémo qui a l&amp;rsquo;odeur d&amp;rsquo;une madeleine de Proust :
+Et qui pourra toujours me re-servir pour la cryptographie.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi ce blog ?</title>
+      <link>http://localhost:1313/jeandi7blog/posts/0-post/</link>
+      <pubDate>Tue, 01 Oct 2019 00:39:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/0-post/</guid>
+      <description>&lt;p&gt;Cela fait plusieurs années que je note chaque jour des petites choses sur des carnets avec un crayon &amp;hellip;.
+J&amp;rsquo;ai simplement décidé d&amp;rsquo;en faire un blog.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

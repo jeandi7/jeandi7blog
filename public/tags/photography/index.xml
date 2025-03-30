@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Photography on Jeandi7 Blog</title>
+    <link>http://localhost:1313/jeandi7blog/tags/photography/</link>
+    <description>Recent content in Photography on Jeandi7 Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fr</language>
+    <copyright>Copyright © 2023, jean-louis DIVOL,  all rights reserved.</copyright>
+    <lastBuildDate>Thu, 12 Sep 2024 00:33:41 +0200</lastBuildDate><atom:link href="http://localhost:1313/jeandi7blog/tags/photography/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stockholm 2024</title>
+      <link>http://localhost:1313/jeandi7blog/posts/23-post/</link>
+      <pubDate>Thu, 12 Sep 2024 00:33:41 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/23-post/</guid>
+      <description>&lt;p&gt;Stockholm August 2024&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/stockholm.jpg&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;First day in stockholm, rain and rainbow&lt;/p&gt;
+&lt;p&gt;nikon D610, 58mm , f2, 1/1000, ISO 1600 ISO&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bratislava 2024</title>
+      <link>http://localhost:1313/jeandi7blog/posts/21-post/</link>
+      <pubDate>Tue, 13 Aug 2024 19:54:52 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/21-post/</guid>
+      <description>&lt;p&gt;Bratislava 2024&lt;/p&gt;
+&lt;p&gt;Well, an easy effect I know&amp;hellip;&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/Bratislava.jpg&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;nikon D610, sigma 24-105 at 52mm, f9.5, 1/350, ISO 200&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Wien Kunsthistorisches Museum 2024</title>
+      <link>http://localhost:1313/jeandi7blog/posts/20-post/</link>
+      <pubDate>Wed, 07 Aug 2024 16:03:00 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/20-post/</guid>
+      <description>&lt;p&gt;Wien Kunsthistorisches Museum 2024&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/Vienne1-2024.jpg&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Ich hatte nur eine Sekunde Zeit,um dieses Foto von Adam und Eva von Lucas Cranach (1515) aufzunehmen.&lt;/p&gt;
+&lt;p&gt;Die Haarfarbe des Mädchens stimmte mit der Haarfarbe von Eva überein.&lt;/p&gt;
+&lt;p&gt;nikon D610, 50mm f2, 1/60 , 800 ISO&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Berlin Checkpoint Charlie 2024</title>
+      <link>http://localhost:1313/jeandi7blog/posts/13-post/</link>
+      <pubDate>Sun, 28 Apr 2024 23:44:17 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/13-post/</guid>
+      <description>&lt;p&gt;Berlin Checkpoint Charlie Avril 2024&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/berlin-checkpoint.jpg&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;M8 160 ISO.
+Nokton 35mm à f5.6 et 1/500s.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Codage ....d optiques</title>
+      <link>http://localhost:1313/jeandi7blog/posts/4-post/</link>
+      <pubDate>Tue, 14 Nov 2023 00:45:37 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/4-post/</guid>
+      <description>&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;J&amp;rsquo;ai eu la chance de pouvoir trouver d&amp;rsquo;occasion un leica M8, sans garantie et dont personne ne voulait,
+à un prix inférieur à un iphone 11 d&amp;rsquo;occasion à ce jour.
+j&amp;rsquo;ai codé ce week-end 3 optiques voigtlander , un 20mm f4, un nokton 35mm 1.4 et un 75mm 2.5 en monture vissante avec un adapteur M&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Le codage permet au boitier de reconnaitre l&amp;rsquo;optique, de corriger le fichier dng à la volée et de remplir l&amp;rsquo;EXIF avec
+la focale, et une estimation de l&amp;rsquo;ouverture.
+En effet, comme il n&amp;rsquo;existe aucun couplage de diaphgrame  entre les optiques M et le boitier M, un petit logiciel embarqué dans le boitier estime la valeur de l&amp;rsquo;ouverture en fonction de la lumière ambiante mesurée et la vitesse choisie.
+Je n&amp;rsquo;y croyais pas trop.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Prague Café le Louvre 2023</title>
+      <link>http://localhost:1313/jeandi7blog/posts/12-post/</link>
+      <pubDate>Thu, 17 Aug 2023 16:05:02 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/12-post/</guid>
+      <description>&lt;p&gt;Prague
+Café le Louvre.&lt;/p&gt;
+&lt;p&gt;Fond du café. Ces tables de billard recouvertes d&amp;rsquo;un drap en ce jour brûlant d&amp;rsquo;août 2023.
+Einstein et Kafka qui fréquentent les lieux début 1900.
+Ont-ils simplement posés les yeux dessus ? joués dessus ?&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/cafeLouvre.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;M8 640 ISO.
+Nokton 35mm à 1/15s f2.0 env.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Japan Expo 2023</title>
+      <link>http://localhost:1313/jeandi7blog/posts/11-post/</link>
+      <pubDate>Sat, 15 Jul 2023 10:30:07 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/11-post/</guid>
+      <description>&lt;p&gt;Le capteur CCD du M8 qui date de 2006 me surprend par sa netetté.&lt;/p&gt;
+&lt;p&gt;Cela s&amp;rsquo;explique par le fait que ce capteur ne possède pas de filtre anti-aliasing.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/japanExpo2023.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;p&gt;Nokton 35mm 1.4 à f2 et 1/125s à 640 ISO.&lt;/p&gt;
+&lt;p&gt;J&amp;rsquo;ai l&amp;rsquo;impression de faire des photos au kodachrome.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cine UGC </title>
+      <link>http://localhost:1313/jeandi7blog/posts/10-post/</link>
+      <pubDate>Sun, 21 May 2023 01:05:24 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/10-post/</guid>
+      <description>&lt;p&gt;Cine UGC avant la séance avec un
+Konica Hexar et 50mm M-Hexanon à f2 et 1/4s en argentique en en lumière ambiante.&lt;/p&gt;
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/cineUGC50mmHexar.png&#34; alt=&#34;Image&#34;  /&gt;
+&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pellicule N&amp;amp;B Fomapan Creative 200 ISO&lt;/li&gt;
+&lt;li&gt;Révélateur Ilfosol 1+14 : 6mn à 20°&lt;/li&gt;
+&lt;li&gt;Fixateur : 1+4 : 4 mn à 20°&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
+      <title>Pourquoi ce blog ?</title>
+      <link>http://localhost:1313/jeandi7blog/posts/0-post/</link>
+      <pubDate>Tue, 01 Oct 2019 00:39:21 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/0-post/</guid>
+      <description>&lt;p&gt;Cela fait plusieurs années que je note chaque jour des petites choses sur des carnets avec un crayon &amp;hellip;.
+J&amp;rsquo;ai simplement décidé d&amp;rsquo;en faire un blog.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -4,7 +4,8 @@ author: Jean-Louis DIVOL
 copyright: >-
   Copyright © 2023, jean-louis DIVOL,  all rights reserved.
 
-paginate: 3
+pagination: 
+   pagerSize: 3
 languageCode: fr
 DefaultContentLanguage: fr
 enableInlineShortcodes: true
@@ -65,7 +66,7 @@ privacy:
     disabled: false
     simple: true
 
-  twitter:
+  x:
     disabled: false
     enableDNT: true
     simple: true
@@ -81,5 +82,5 @@ privacy:
 services:
   instagram:
     disableInlineCSS: true
-  twitter:
+  x:
     disableInlineCSS: true
