@@ -12,4 +12,4 @@ Stockholm August 2024
 
 First day in stockholm, rain and rainbow
 
-nikon D610, 58mm , f2, 1/1000, ISO 1600 ISO
+nikon D610, 58mm , f2, 1/1000, ISO 1600
