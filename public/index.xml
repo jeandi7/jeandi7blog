@@ -7,7 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright © 2023, jean-louis DIVOL,  all rights reserved.</copyright>
-    <lastBuildDate>Sat, 17 May 2025 07:58:27 +0200</lastBuildDate><atom:link href="http://localhost:1313/jeandi7blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 25 May 2025 01:35:20 +0200</lastBuildDate><atom:link href="http://localhost:1313/jeandi7blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zanzibar SpiceDB-like Reader &#43;  Archimate PlantUML Generation Code  in less than 1300 lines of golang : part V</title>
+      <link>http://localhost:1313/jeandi7blog/posts/31-post/</link>
+      <pubDate>Sun, 25 May 2025 01:35:20 +0200</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/31-post/</guid>
+      <description>&lt;p&gt;This part follows parts I to IV from Zanzibar SpiceDB-like Reader.&lt;/p&gt;
+&lt;p&gt;This time, I wanted to integrate the permission feature.&lt;/p&gt;
+&lt;p&gt;This section only deals with modifying the grammar and coding it in Golang to be able to read a schema with permissions.&lt;/p&gt;
+&lt;p&gt;The drawing generation part (= semantic part) is not yet covered.&lt;/p&gt;
+&lt;p&gt;Code and details are here : &lt;a href=&#34;https://github.com/jeandi7/zreader5&#34;&gt;https://github.com/jeandi7/zreader5&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;permission-feature&#34;&gt;Permission Feature&lt;/h1&gt;
+&lt;p&gt;This feature is described in the zanzibar documentation.&lt;/p&gt;
+&lt;p&gt;The spicedb/authzed documentation explains :&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Riga 2025</title>
       <link>http://localhost:1313/jeandi7blog/posts/30-post/</link>
@@ -18,7 +34,7 @@
 &lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;./images/riga.jpg&#34; alt=&#34;Image&#34;  /&gt;
 &lt;/p&gt;
 &lt;p&gt;The cherry trees of Riga.&lt;/p&gt;
-&lt;p&gt;nikon D610, Tamron 45mm SP , f11, 1/250, ISO 200&lt;/p&gt;</description>
+&lt;p&gt;nikon D610, Tamron 45mm SP, f11, 1/250, ISO 200&lt;/p&gt;</description>
     </item>
     
     <item>
