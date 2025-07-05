@@ -2,16 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/jeandi7blog/tags/computer-science/</loc>
-    <lastmod>2025-05-25T01:35:20+02:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/jeandi7blog/</loc>
-    <lastmod>2025-05-25T01:35:20+02:00</lastmod>
+    <lastmod>2025-07-05T21:51:34+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jeandi7blog/posts/</loc>
-    <lastmod>2025-05-25T01:35:20+02:00</lastmod>
+    <lastmod>2025-07-05T21:51:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jeandi7blog/posts/32-post/</loc>
+    <lastmod>2025-07-05T21:51:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jeandi7blog/tags/reading/</loc>
+    <lastmod>2025-07-05T21:51:34+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jeandi7blog/tags/</loc>
+    <lastmod>2025-07-05T21:51:34+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/jeandi7blog/tags/computer-science/</loc>
     <lastmod>2025-05-25T01:35:20+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jeandi7blog/posts/31-post/</loc>
@@ -24,9 +30,6 @@
     <lastmod>2025-05-17T07:58:27+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jeandi7blog/posts/29-post/</loc>
-    <lastmod>2025-03-30T22:12:15+02:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/jeandi7blog/tags/reading/</loc>
     <lastmod>2025-03-30T22:12:15+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/jeandi7blog/posts/28-post/</loc>
