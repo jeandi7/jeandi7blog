@@ -7,7 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <copyright>Copyright © 2023, jean-louis DIVOL,  all rights reserved.</copyright>
-    <lastBuildDate>Wed, 30 Jul 2025 21:02:35 +0200</lastBuildDate><atom:link href="http://localhost:1313/jeandi7blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 05 Dec 2025 00:18:52 +0100</lastBuildDate><atom:link href="http://localhost:1313/jeandi7blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Zanzibar SpiceDB-like Reader &#43;  Archimate PlantUML Generation Code  in less than 1400 lines of golang : part VI</title>
+      <link>http://localhost:1313/jeandi7blog/posts/34-post/</link>
+      <pubDate>Fri, 05 Dec 2025 00:18:52 +0100</pubDate>
+      
+      <guid>http://localhost:1313/jeandi7blog/posts/34-post/</guid>
+      <description>&lt;p&gt;This part follows parts I to IV from Zanzibar SpiceDB-like Reader.&lt;/p&gt;
+&lt;p&gt;Part V integrate the permission feature and this part VI integrate the drawing generation (= semantic part)&lt;/p&gt;
+&lt;p&gt;I only added about a hundred lines for the semantic part.&lt;/p&gt;
+&lt;p&gt;Code and details are here : &lt;a href=&#34;https://github.com/jeandi7/zreader6&#34;&gt;https://github.com/jeandi7/zreader6&lt;/a&gt;&lt;/p&gt;
+&lt;h1 id=&#34;recall-about-the-permission-feature&#34;&gt;Recall about the Permission Feature&lt;/h1&gt;
+&lt;p&gt;This feature is described in the zanzibar documentation.&lt;/p&gt;
+&lt;p&gt;The spicedb/authzed documentation explains :&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A permission defines a computed set of subjects that have a permission of some kind on the parent object.
+For example, is a user within the set of users that can edit a document.
+Permissions are always defined with a name and an expression defining how that permission&amp;rsquo;s allowed set of subjects is computed:&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Victor E.Franckl : Man s search for meaning</title>
       <link>http://localhost:1313/jeandi7blog/posts/33-post/</link>
