@@ -3,7 +3,7 @@ title = 'Zanzibar SpiceDB-like Reader +  Archimate PlantUML Generation Code  in 
 date = 2025-12-05T00:18:52+01:00
 +++
 
-This part follows parts I to IV from Zanzibar SpiceDB-like Reader.
+This part follows parts I to V from Zanzibar SpiceDB-like Reader.
 
 Part V integrate the permission feature and this part VI integrate the drawing generation (= semantic part) 
 
