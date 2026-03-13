@@ -1,6 +1,7 @@
 +++
 title = 'Zanzibar SpiceDB-like Reader +  Archimate PlantUML Generation Code  in less than 1400 lines of golang : part VI'
 date = 2025-12-05T00:18:52+01:00
+tags = ["computer science"]
 +++
 
 This part follows parts I to V from Zanzibar SpiceDB-like Reader.
